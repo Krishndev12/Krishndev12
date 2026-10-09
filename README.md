@@ -30,8 +30,8 @@ Hi 👋 I'm **Krishndev** — 💻 MERN Full-Stack Developer (MongoDB, Express, 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Krishndev12&theme=black-ice&hide_border=true&card_width=455&card_height=190)](https://git.io/streak-stats)
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishndev12&layout=compact&theme=radical&hide_border=true&card_width=455" alt="Top Languages" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Krishndev12&theme=black-ice&hide_border=true&card_width=300&card_height=150)](https://git.io/streak-stats)
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishndev12&layout=compact&theme=radical&hide_border=true&card_width=300" alt="Top Languages" />
 
 </div>
 
