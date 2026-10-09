@@ -10,7 +10,7 @@
 
 ## ⚡ About Me
 
-Hi 👋 I'm **Krishn Dev** — 💻 MERN Full-Stack Developer (MongoDB, Express, React, Node.js) • 🚀 Building scalable apps • ✨ Clean code
+Hi 👋 I'm **Krishndev** — 💻 MERN Full-Stack Developer (MongoDB, Express, React, Node.js) • 🚀 Building scalable apps • ✨ Clean code
 
 ---
 
@@ -39,7 +39,7 @@ Hi 👋 I'm **Krishn Dev** — 💻 MERN Full-Stack Developer (MongoDB, Express,
 
 ## 🌐 Important Links 🔗
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishndev-kumar-saw-b57343292)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishndev12)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
